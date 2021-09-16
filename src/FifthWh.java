@@ -10,7 +10,11 @@ public class FifthWh {
         System.out.println("first change");
         System.out.println("2 change dev");
         System.out.println("2 change dev");
+<<<<<<< HEAD
         System.out.println("bye");
 
 
+=======
+        System.out.println("salam");
+>>>>>>> d39528359fd634f0ae3127d703d1432276211d17
 }
