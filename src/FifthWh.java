@@ -10,6 +10,10 @@ public class FifthWh {
         System.out.println("first change");
         System.out.println("2 change dev");
         System.out.println("2 change dev");
+<<<<<<< HEAD
         System.out.println("khodafez");
+=======
+         System.out.println("salam");
+>>>>>>> 70994cd10592272611008becab2c501a3713b2b7
     }
 }
