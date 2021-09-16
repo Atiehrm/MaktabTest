@@ -9,6 +9,6 @@ public class FifthWh {
     public static void isVowel() {
         System.out.println("first change");
         System.out.println("2 change dev");
-        System.out.println("2 change dev");
+        System.out.println("3 change dev");
     }
 }
