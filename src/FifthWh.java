@@ -10,5 +10,6 @@ public class FifthWh {
         System.out.println("first change");
         System.out.println("2 change dev");
         System.out.println("2 change dev");
+         System.out.println("salam");
     }
 }
